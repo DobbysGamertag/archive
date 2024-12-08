@@ -1,10 +1,10 @@
 # archive
 
-Archived material from the old community forums. 🕯 4/11 😔
+Archived material from the old community forums, as well as dependencies no longer online.
 
 ## Contributing
 
-Please contribute any old files or links you have from the old community forums.
+Please contribute any old files or links you have.
 
 Simply open a pull request by uploading files directly to one of the directories.
 
